@@ -1,4 +1,4 @@
-package JavaRafael.Ejercicios_simples;
+import java.util.Scanner;
 
 /**
  * Vamos a pedir un número entero por teclado (Controlar que sea un número positivo) y lo vamos a guardar en una variable de tipo int.
@@ -9,5 +9,7 @@ package JavaRafael.Ejercicios_simples;
  * 
  */
 public class numeroALetra {
-    
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+    }
 }

@@ -1,4 +1,4 @@
-package JavaRafael.Ejercicios_simples;
+import java.util.Scanner;
 
 /**
  * Pedir un numero entero por teclado (Controlar que sea un numero positivo).
@@ -13,5 +13,7 @@ package JavaRafael.Ejercicios_simples;
  * 
  */
 public class numeroEntero {
-    
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+    }
 }
