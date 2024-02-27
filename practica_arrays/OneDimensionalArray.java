@@ -27,6 +27,6 @@ public class OneDimensionalArray {
                 return i;
             }
         }
-        return -1;
+        return -1; // Return -1 if the target element is not found in the array
     }
 }
