@@ -1,0 +1,2 @@
+Ejemplo basico en Java
+Tener en cuenta que es un caso de ejemplo
